@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DeskripsiBeranda6_masuk"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/textView_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:textColor="#423C3C"
+            android:fontFamily="sans"/>
+    </androidx.appcompat.widget.Toolbar>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView_beranda6"
+                android:layout_width="match_parent"
+                android:layout_height="270dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/beranda6" />
+
+            <TextView
+                android:id="@+id/textView1_beranda6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:textStyle="bold"
+                android:fontFamily="sans"
+                android:textColor="@color/black"
+                android:text="DISKON Rp 50.000"
+                android:textSize="17dp"
+                android:layout_marginLeft="25dp"/>
+            <TextView
+                android:id="@+id/textView2_beranda6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:text="Monday Green Day!"
+                android:textSize="15dp"
+                android:fontFamily="sans"/>
+            <TextView
+                android:id="@+id/textView3_beranda6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginTop="20dp"
+                android:text="Yuk awali minggumu dengan yang sehat, ditemani dengan menu sayuran Bakmi GM yang lezat dengan harga spesial."
+                android:textSize="15dp"
+                android:fontFamily="sans"/>
+            <TextView
+                android:id="@+id/textView4_beranda6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginTop="15dp"
+                android:text="Pesan melalui 1.500.677 atau WhatsApp 0811.1500.677 dan infokan nomor member kamu untuk mendapatkan promo ini."
+                android:textSize="15dp"
+                android:fontFamily="sans"/>
+            <TextView
+                android:id="@+id/textView5_beranda6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginTop="15dp"
+                android:text="GRATIS BIAYA ANTAR untuk setiap transaksi produk apapun min Rp. 50.000 (sebelum pajak)"
+                android:textSize="15dp"
+                android:fontFamily="sans"/>
+            <TextView
+                android:id="@+id/textView6_beranda6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginTop="15dp"
+                android:text="Syarat dan Ketentuan:"
+                android:textSize="15dp"
+                android:fontFamily="sans"/>
+            <TextView
+                android:id="@+id/textView7_beranda6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:text="-Harga sebelum pajak"
+                android:textSize="15dp"
+                android:fontFamily="sans"/>
+            <TextView
+                android:id="@+id/textView8_beranda6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:text="-Berlaku setiap hari Senin"
+                android:textSize="15dp"
+                android:fontFamily="sans"/>
+            <TextView
+                android:id="@+id/textView9_beranda6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:text="-Berlaku untuk Take-Out dan Delivery"
+                android:textSize="15dp"
+                android:fontFamily="sans"/>
+            <TextView
+                android:id="@+id/textView10_beranda6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:text="-Berlaku selama persediaan masih ada"
+                android:textSize="15dp"
+                android:fontFamily="sans"/>
+            <TextView
+                android:id="@+id/textView11_beranda6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:text="-Sementara hanya tersedia di Jabodetabek"
+                android:textSize="15dp"
+                android:fontFamily="sans"/>
+            <TextView
+                android:id="@+id/textView12_beranda6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginTop="15dp"
+                android:text="SK Berlaku"
+                android:textSize="15dp"
+                android:fontFamily="sans"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

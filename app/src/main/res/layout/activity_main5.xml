@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main5Activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_above="@+id/bottom_navigation">
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/textView_toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textSize="20dp"
+                android:textColor="#423C3C"
+                android:fontFamily="sans"/>
+        </androidx.appcompat.widget.Toolbar>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="@drawable/lala">
+
+            <View
+                android:id="@+id/garis1"
+                android:layout_marginTop="10dp"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/black"/>
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/garis1"
+                android:layout_marginTop="14dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="25dp"
+                android:text="@string/nikmati"
+                android:textAlignment="center"
+                android:textSize="14dp"
+                tools:ignore="HardcodedText,ObsoleteLayoutParam,SpUsage" />
+
+            <Button
+                android:id="@+id/button1"
+                android:layout_below="@+id/textView1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/gabung"
+                android:textSize="25dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="false"
+                android:layout_alignParentRight="false"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:paddingRight="40dp"
+                android:paddingLeft="40dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:background="@color/orange"/>
+
+            <View
+                android:id="@+id/garis2"
+                android:layout_below="@+id/button1"
+                android:layout_marginTop="20dp"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/black"/>
+
+            <TextView
+                android:id="@+id/pilihbahasa"
+                android:layout_below="@id/garis2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="10dp"
+                android:textSize="14dp"
+                android:text="@string/pilihbhs"/>
+
+            <RelativeLayout
+                android:id="@+id/rl1"
+                android:layout_below="@id/pilihbahasa"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="63dp"
+                android:layout_marginRight="63dp"
+                android:layout_centerHorizontal="true"
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <Button
+                    android:id="@+id/bahasain"
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:textSize="14dp"
+                    android:paddingLeft="30dp"
+                    android:paddingRight="30dp"
+                    android:text="@string/indo"
+                    />
+                <Button
+                    android:id="@+id/bahasaen"
+                    android:layout_marginLeft="25dp"
+                    android:layout_toRightOf="@id/bahasain"
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:paddingLeft="30dp"
+                    android:paddingRight="30dp"
+                    android:textSize="14dp"
+                    android:text="@string/ing"
+                    />
+            </RelativeLayout>
+
+            <View
+                android:id="@+id/garis3"
+                android:layout_below="@+id/rl1"
+                android:layout_marginTop="20dp"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/black"/>
+
+            <Button
+                android:id="@+id/game"
+                android:layout_width="match_parent"
+                android:paddingLeft="10dp"
+                android:layout_height="50dp"
+                android:layout_below="@id/garis3"
+                android:text="@string/main"
+                android:textAlignment="textStart"
+                android:background="@color/trans"
+                android:textSize="12dp"
+                android:layout_marginTop="20dp"
+                android:gravity="start" />
+
+            <Button
+                android:id="@+id/notif"
+                android:layout_width="match_parent"
+                android:paddingLeft="10dp"
+                android:layout_height="50dp"
+                android:layout_below="@id/game"
+                android:text="@string/not"
+                android:textAlignment="textStart"
+                android:background="@color/trans"
+                android:textSize="12dp"
+                android:gravity="start" />
+
+            <Button
+                android:id="@+id/tanya"
+                android:layout_width="match_parent"
+                android:paddingLeft="10dp"
+                android:layout_height="50dp"
+                android:layout_below="@id/notif"
+                android:text="@string/tan"
+                android:textAlignment="textStart"
+                android:background="@color/trans"
+                android:textSize="12dp"
+                android:gravity="start" />
+
+            <Button
+                android:id="@+id/syarat"
+                android:layout_width="match_parent"
+                android:paddingLeft="10dp"
+                android:layout_height="50dp"
+                android:layout_below="@id/tanya"
+                android:text="@string/sya"
+                android:textAlignment="textStart"
+                android:background="@color/trans"
+                android:textSize="12dp"
+                android:gravity="start" />
+
+            <Button
+                android:id="@+id/bijak"
+                android:layout_width="match_parent"
+                android:paddingLeft="10dp"
+                android:layout_height="50dp"
+                android:layout_below="@id/syarat"
+                android:text="@string/kebijak"
+                android:textAlignment="textStart"
+                android:background="@color/trans"
+                android:textSize="12dp"
+                android:gravity="start" />
+
+            <Button
+                android:id="@+id/hubung"
+                android:layout_width="match_parent"
+                android:paddingLeft="10dp"
+                android:layout_height="50dp"
+                android:layout_below="@id/bijak"
+                android:text="@string/hbg"
+                android:textAlignment="textStart"
+                android:background="@color/trans"
+                android:textSize="12dp"
+                android:gravity="start" />
+
+        </LinearLayout>
+    </LinearLayout>
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bottom_navigation"
+        app:itemBackground="@color/colorPrimary"
+        app:itemTextColor="@drawable/selector"
+        app:itemIconTint="@drawable/selector"
+        app:menu="@menu/menu_navigation"
+        android:layout_alignParentBottom="true"/>
+</RelativeLayout>

@@ -1,0 +1,232 @@
+<resources>
+    <string name="app_name">Bakmi GM</string>
+    <string name="nikmati">Nikmati penawaran menarik, poin, dan banyak lagi dengan program hadiah eksklusif Bakmi Gmania.
+        Daftar Sekarang!</string>
+    <string name="gabung">Gabung Sekarang</string>
+    <string name="pilihbhs">Pilihan Bahasa</string>
+    <string name="tullisanbakmigm">Bakmi GM</string>
+    <string name="indo">Bahasa</string>
+    <string name="ing">English</string>
+    <string name="main">Permainan</string>
+    <string name="not">Notifikasi</string>
+    <string name="gbgmember">Bergabung menjadi Member</string>
+    <string name="tan">Pertanyaan</string>
+    <string name="sya">Syarat dan Ketentuan</string>
+    <string name="syagm">Syarat dan Ketentuan Bakmi GM</string>
+    <string name="kebijak">Kebijakan Privasi</string>
+    <string name="hbg">Hubungi Kami</string>
+    <string name="addre">Alamat</string>
+    <string name="mail">E-mail</string>
+    <string name="bkmimail">help@bgmania.bakmigm.com</string>
+    <string name="keterangan1">Pengguna Aplikasi Bakmi GM ini menyetujui dan menerima persyaratan penggunaan Aplikasi seperti yang dapat direvisi oleh Bakmi GM dari waktu ke waktu, dan merupakan perjanjian yang mengikat antara Pengguna dan Bakmi GM. Dengan mengunduh atau menginstal Aplikasi Bakmi GM, Pengguna mengakui dan menyetujui untuk terikat oleh persyaratan ini. Jika Pengguna tidak setuju dengan persyaratan ini, Pengguna tidak setuju dengan Persyaratan ini, Pengguna tidak dapat menggunakan Aplikasi Bakmi GM ini.</string>
+    <string name="keterangan2">Bakmi GM mengembangkan aplikasi ini sebagaimana mestinya dan pengguna menanggung sendiri semua resiko penggunaan Aplikasi ini. Bakmi GM berhak untuk menampilkan berbagai macam promosi dan segala macam bentuk iklan secara implisit dan explisit selama itu masih berada pada jalur hukum yang berlaku tanpa meminta persetujuan atau memberikan kompensasi kepada pengguna</string>
+    <string name="ket2">Bakmi GM tidak bertanggung jawab atas biaya, kerusakan dan cacat yang disebabkan, kegagalan proses, gangguan, lamanya operasi dan transisi, virus atau kegagalan koneksi yang disebabkan performa pihak ke 2 atau ke 3. Bakmi GM tidak bertanggung jawab atas kerugian yang timbul dari kehilangan atau jika terjadi pencurian informasi pengguna yang dikirimkan atau disimpan pada perangkat atau berasal dari transaksi yang tidak sah atau penipuan yang terkait dengan Aplikasi. Aplikasi dan Konten dilindungi oleh hak cipta, merek dagang, paten, rahasia dagang, hukum dan hak kepemilikan lainnya, dan juga mungkin memiliki komponen keamanan yang melindungi informasi digital sebagaimana diizinkan oleh Bakmi GM atau pemilik Konten.</string>
+    <string name="ket3">Bakmi GM memberikan pengguna lisensi pribadi yang bersifat non eksklusif, tidak dapat dipindah tangankan, terbatas dan dapat dibatalkan untuk menggunakan Aplikasi untuk menggunakan aplikasi untuk penggunaan pribadi dan tidak bersifat komersial yang terdapat pada perangkat android non tablet dan iphone. Aplikasi ini dimiliki dan dikendalikan oleh pengguna  yang sesuai dengan ketentuan Apple dan ketentuan Google.</string>
+    <string name="ket4">Bakmi GM tidak mengizinkan pihak manapun dalam penggunaan aplikasi dengan cara lain, tanpa Batasan, jual-beli Aplikasi, transfer, modifikasi atau distribusi aplikasi atau teks, gambar, music, barcode, video, data hyperlink, dan konten yang terkait dengan aplikasi ini.</string>
+    <string name="ket5">Ketentuan ini dapat berubah dan dilakukan pembaruan pada aplikasi yang ketentuan baru akan diterbitkan secara terpisah pada ketentuan lainnya. </string>
+    <string name="ket6">Jika ada ketentuan dari ketentuan ini akan dianggap melanggar hukum, batal atau karena alas an apapun tidak dapat dilaksanakan, maka ketentuan yang akan dianggap terpisah dari ketentuan ini dan tidak mempengaruhi validitas dan keberlakuan dari ketentuan yang tersisa. </string>
+    <string name="ketmain">Nikmati penawaran menarik, poin, dan banyak lagi dengan program hadiah eksklusif Bakmi GMania. Daftar sekarang!</string>
+    <string name="boldguna">Penggunaan Aplikasi yang disarankan </string>
+    <string name="ketguna">Pengguna telah menyetujui bahwa penggunaan Aplikasi ini dan Konten apa pun harus mematuhi Aplikasi ini dan Konten apa pun harus mematuhi ketentuan dan kebijakan yang dibuat oleh Bakmi GM. Pengguna dilarang menggunakan aplikasi ini untuk :</string>
+    <string name="ketguna1">1.	Melecehkan, menyalahgunakan, mengintai, mengancam, mencemarkan hama baik atau melanggar hak public atau hak kepemilikan lainnya.</string>
+    <string name="ketguna2">2.	Melanggar hukum yang berlaku di Indonesia.</string>
+    <string name="ketguna3">3.	Melakukan penipuan menggunakan Aplikasi ini.</string>
+    <string name="ketguna4">4.	Menggunakan atau meluncurkan sistem otomatis apapun seperti “robot”, “spiders”, atau “pembaca Offline” untuk mengakses Aplikasi ini.</string>
+    <string name="ketguna5">5.	Memasukkan Virus atau kode komputer, file atau program yang akan mengganggu jalannya proses aplikasi atau fungsionalitas yang dimiliki oleh aplikasi serta mengganggu kondusifitas kerja perangkat telepon genggam.</string>
+    <string name="boldinden">Indentifikasi</string>
+    <string name="ketinden">Pengguna menyetujui untuk bertanggung jawab, mengganti kerugian, membayar denda, atas semua klaim, tuntutan, kerusakan, denda, dan kewajiban yang telah disebabkan oleh pengguna Aplikasi kepada pihak Bakmi GM. Bakmi GM berhak untuk melakukan pembelaan dan control ekslusif atas semua masalah yang melibatkan ganti rugi oleh pengguna Aplikasi. Jika pengguna melakukan pelanggaran hak kekayaan intelektualitas yang dimiliki oleh PT. Griya Miesejati, Apple Inc, dan Google LLC maka pengguna akan bertanggung jawab sepenuhnya atas Tindakan tersebut dan akan bersedia untuk dilakukan penyelidikan, pembelaan, dan penyelesaian terhadap kasus pelanggaran hak intelektualias yang terjadi.</string>
+    <string name="sanggah">Sanggahan</string>
+    <string name="lisen">Lisensi Pengguna</string>
+    <string name="pisah">Keterpisahan</string>
+    <string name="terima">Saya menerima syarat dan ketentuannya</string>
+    <string name="next">Lanjut</string>
+    <string name="tanggung">Tanggung Jawab</string>
+    <string name="kettanggung">Bakmi GM bertanggung jawab kepada pengguna atas penggunaan aplikasi yang sehubungan dengan hal-hal berikut ini :</string>
+    <string name="kettanggung1">1.	Point Member</string>
+    <string name="kettanggung11">o	Point member yang tidak masuk pada akun member lebih dari 1 X 24 jam setelah member melakukan transaksi. Bakmi GM hanya akan memproses keluhan member apabila Bakmi GM menerima keluhan poin tidak masuk dari member melalui email help@bgmania.bakmigm.com yang disertai dengan lampiran bukti struk belanja.</string>
+    <string name="kettanggung12">o	Point member yang terpotong pada saat melakukan penukaran voucher yang tidak berhasil akibat kegagalan sistem. Hanya berlaku untuk member yang poinnya sudah terpotong tetapi belum mendapatkan kode voucher.</string>
+    <string name="kettanggung2">2.	Transaksi member yang tidak terkam pada sistem dikarenakan terbukti akibat dari kelalaian Bakmi GM untuk memasukkan nomor Handphone member yang telah terdaftar pada struk belanja. Bakmi GM akan melakukan penggantian poin member setelah menerima laporan dari member yang disertai dengan bukti struk belanja.</string>
+    <string name="kettanggung3">3.	Transaksi member yang tidak terekam pada sistem walaupun telah memasukkan nomor member pada struk belanja. Transaksi dan point akan diproses kedalam sistem sebagai hak member Bakmi GM.</string>
+    <string name="kettanggung4">4.	Kewajiban tanggung jawab Bakmi GM hanya sebatas pada penggantian voucher atau poin pelanggan.</string>
+    <string name="appli">Aplikasi dan Konten</string>
+    <string name="ketappli">Aplikasi dan seluruh kontenyang terkandung didalamnya dilindungi oleh hak cipta, merk dagang, paten dan rahasia dagang, perjanjian internasional, hukum dan hak kepemilikan lainnya, dan juga memiliki komponen keamanan yang melindungi informasi digital sebagaimana Bakmi GM tentukan.</string>
+    <string name="ubah">Perubahan</string>
+    <string name="ketubah">Bakmi GM mempunyai hak untuk menambah, mengurangi serta mengubah syarat ketentuan yang berlaku yang berkaitan dengan penggunaan Aplikasi setiap saat sesuai dengan kebijakan Bakmi GM dengan mengganti Kebijakan Privasinya di Aplikasi, Pengguna berhak untuk tetap menggunakan dan memanfaatkan aplikasi sebagai mana mestinya.</string>
+    <string name="bijakgm">Kebijakan Privasi Bakmi GM</string>
+    <string name="ketbijakgm1">Dengan menggunakan Aplikasi Bakmi GM dan memberikan kami data pribadi Anda berarti Anda telah menerima semua yang berlaku dalam Pernyataan Privasi ini. Kami mohon untuk tidak menyerahkan data pribadi Anda jika Anda tidak setuju dengan Sebagian atau keseluruhan isi dari Ketentuan Privasi ini. </string>
+    <string name="ketbijakgm2">Bakmi GM berhak untuk mengubah pernyataan Privasi ini secara berkala. Kami menyarankan agar membaca pernyataan privasi ini secara berkala guna memastikan agar ketentuan privasi ini sesuai dengan yang Anda kehendaki serrta bagaimana data pribadi Anda akan diproses. </string>
+    <string name="kumpul">Pengumpulan Data</string>
+    <string name="ket1kumpul">Pengguna Mobile Aplikasi memberikan data pribadi kepada pihak Bakmi GM dengan suka rela yang mencakup :</string>
+    <string name="ket1kumpul1">1.	Informasi yang Anda berikan saat melakukan registrasi</string>
+    <string name="ket1kumpul2">2.	Informasi yang kami dapatkan Ketika Anda melengkapi Profil Anda di Aplikasi</string>
+    <string name="ket1kumpul3">3.	Informasi yang kami dapatkan dari Anda pada saat penggunaan Aplikasi ataupun Ketika Anda melakukan transaksi di Store Bakmi GM</string>
+    <string name="ket1kumpul4">4.	Informasi yang kami dapatkan dari sumber lain.</string>
+    <string name="ket2kumpul">Data yang diminta untuk melakukan registrasi adalaha Nama, Nomer Handphone, Tanggal Lahir, Jenis Kelamin, Alamat dan data pribadi lainnya yang mendukung proses operasional pada aplikasi ini. </string>
+    <string name="ket3kumpul">Selain Nama, Nomor Handphone, Tanggal Lahir, Jenis Kelamin, dan Alamat pengguna berhak memilih untuk mengisi data pribadi lainnya atau tidak. Namun hal ini akan memberikan perbedaan pada layanan atau informasi yang akan didapatkan antara ppengguna yang tidak mengisi lengkap data dirinya. Informasi terkair dengan data personal yang dikirimkan ke aplikasi ini tidak diperjualbelikan atau diserahkan kepada pihak yang tidak terlibat dalam operasional aplikasi ini. </string>
+    <string name="bagidata">Bagaimana Kami Membagi Data Anda</string>
+    <string name="ket1bagidata">Ada beberapa situasi yang menyebabkan kami akan membagi data Anda kepada pihak lain, yaitu:</string>
+    <string name="ket1bagidata1">1.	Kepada penyedia jasa layanan untuk keperluan Marketing</string>
+    <string name="ket1bagidata11">Pihak ketiga kami, yaitu yang menyediakan jasa layanan dan mengembangkan sistem aplikasi kami memegang dan memiliki data Anda untuk keperluan promosi, event atau kegiatan marketing lainnya untuk Anda.</string>
+    <string name="ket1bagidata2">2. Transaksi Bisnis</string>
+    <string name="ket1bagidata21">Jika kami melakukan suatu penggabungan perusahaan atau situasi lain yang menyebabkan kami harus memberikan keseluruhan data perusahaan kami termasuk data Anda.</string>
+    <string name="ket1bagidata3">3.	Ketika anda menggunakan aplikasi kami, pihak ketiga dapat melihat data dan informasi tentang Anda melalui cookies, web beacons, dan teknologi serupa, informasi yang dapat diperoleh adalah tipe perangkat yang Anda gunakan, sistem operasi Anda, browser Anda, dan operator internet Anda.</string>
+    <string name="ket1bagidata4">4.	Kami akan membagikan informasi Anda jika kami yakin dengan niat baik bahwa akses, penggunaan, penyimpanan atau pengungkapan informasi digunakan untuk :</string>
+    <string name="ket1bagidata41">•	Ketika diperlukan untuk memberikan data Anda untuk keperluan yang dapat melindungi hak dan kewajiban perusahaan serta konsumen sesuai dengan hukum yang berlaku.</string>
+    <string name="ket1bagidata42">•	Mematuhi hukum, peraturan, proses hukum yang berlaku atas permintaan apparat Negara yang wajib dipenuhi.</string>
+    <string name="ket1bagidata43">•	Mendeteksi, mencegah, atau menangani penipuan keamanan atau masalah teknis</string>
+    <string name="aman">Keamanan Data</string>
+    <string name="ketaman">Bakmi GM melakukan Tindakan yang dirasa perlu untuk memastikan data pengguna aman, terlindungi dan terkendali sesuai dengan ketentuan perusahaan yang berlaku untuk memastikan tidak terjadinya resiko kehilangan, penyalahgunaan, dan akses yang tidak memliki izin terhadap data Anda.</string>
+    <string name="ubahprivate">Perubahan Ketentuan Privasi</string>
+    <string name="ketubahprivate">Perubahan ketentuan privasi ini akan kami lakukan dari waktu ke waktu. Kami akan mengurangi hak Anda pada kebijakan privasi ini tanpa ada persetujuan explisit dari Anda. Kami juga menyarankan Anda untuk terus membaca ketentuan privasi kami agar dapat menyesuaikan dengan ketentuan privasi yang akan terus kami perbarui.</string>
+    <string name="kethbgbijak">Mohon Hubungi kami jika Anda memiliki pertanyaan, komentar serta kritik dan saran. Anda dapat menghubungi kami melalui email di help@bgmania.bakmigm.com.</string>
+    <string-array name="pertanyaan1">
+        <item>1.	Apa itu member Bakmi GMania?</item>
+        <item>Program Bakmi GM agar dapat mengumpulkan poin dari setiap transaksi di Bakmi GM dan poin yang dikumpulkan dapat ditukarkan dengan hadiah tertentu yang disediakan oleh Bakmi GM.</item>
+    </string-array>
+    <string-array name="pertanyaan2">
+        <item>2.	Bagaimana cara untuk menjadi member Bakmi GMania?</item>
+        <item>Download Aplikasi Bakmi GM melalui Google Play store untuk pengguna Android atau Apple Store untuk pengguna IOS. Kemudian masukkan nomor Handphone Anda dan Anda akan menerima SMS OTP dari Bakmi GM di nomor Handphone yang Anda daftarkan. Lengkapi formulir online registrasi pendaftaran member.</item>
+    </string-array>
+    <string-array name="pertanyaan3">
+        <item>3.	Bagaimana cara mendapatkan Poin Member Bakmi GMania?</item>
+        <item>Sebelum melakukan transaksi di Bakmi GM, Informasikan kepada pihak Store Bakmi GM bahwa anda adalah member Bakmi GMania dan informasikan nomor HP serta nama nda yang terdaftar sebagai member, atau menunjukkan QR Code Member Bakmi GMania.</item>
+    </string-array>
+    <string-array name="pertanyaan4">
+        <item>4.	Berapa lama waktu yang dibutuhkan untuk Poin masuk ke akun Member Bakmi GMania?</item>
+        <item>Pastikan untuk selalu mengecek struk transaksi Anda dan didalam struk tertera nomor handphone Anda yang terdaftar sebagai member. Poin member yang didapat akan masuk ke dalam akun Anda maksimal dalam waktu 1x24 jam setelah Anda bertransaksi di Bakmi GM.</item>
+    </string-array>
+    <string-array name="pertanyaan5">
+        <item>5.	Bagaimana Poin Member Bakmi GMania yang akan saya dapatkan?</item>
+        <item>Pemberian Poin kepada Member Bakmi GMania adalah untuk setiap pembelian jumlah Rp 10.000 (sebelum pajak).- akan mendapatkan 1 poin dan berlaku kelipatan.</item>
+    </string-array>
+    <string-array name="pertanyaan6">
+        <item>6.	Bagaimana jika poin member saya belum masuk setelah 1x24 jam?</item>
+        <item>Anda dapat menghubungi contact center Bakmi GMania melalui email ke : help@bgmania.bakmigm.com dengan melampirkan struk transaksi Anda.
+Bakmi GM hanya akan melakukan tindak lanjut terhadap keluhan member yang melampirkan bukti struk transaksi.
+</item>
+    </string-array>
+    <string-array name="pertanyaan7">
+        <item>7.	Apakah Poin Member Bakmi GMania akan hangus jika tidak digunakan?</item>
+        <item>Poin akan hangus 1 tahun setelah melakukan transaksi.
+Contoh : Poin yang diperoleh dari transaksi tanggal 1 April 2018 akan hangus pada tanggal 31 Maret 2019
+</item>
+    </string-array>
+    <string-array name="pertanyaan8">
+        <item>8.	Bagaimana cara menukarkan Poin Member Bakmi GMania?</item>
+        <item>poin Member Bakmi GMania hanya dapat ditukarkan melalui :
+        1.	Aplikasi Bakmi GM. Masuk pada menu hadiah kemudia pilih hadiah yang ingin ditukarkan sesuai dengan jumlah poin yang Anda miliki. Setelah itu Anda akan mendapatkan notifikasi kode e-voucher member yang bisa ditukarkan di store Bakmi GM.
+        2.	Website. http://membergmania.bakmigm.com. Masuk pada menu hadiah kemudian pilih hadiah yang ingin ditukarkan sesuai dengan jumlah poin yang Anda miliki. Setelah itu, Anda akan mendapatkan sms kode e-voucher member yang bisa ditukarkan di store Bakmi GM.</item>
+    </string-array>
+    <string-array name="pertanyaan9">
+        <item>9.	Bagaimana cara menukarkan E-Voucher Member?</item>
+        <item>Anda dapat mengunjungi store Bakmi GM (kecuali Food Truck, Event Bazaar, Bandara, Booth dan Store MRT). Sebelum melakukan transaksi, informasikan kepada pihak store bahwa Anda ingin menggunakan / menukarkan Voucher Member. Informasikan nomor HP, nama, kode dan nama E-Voucher member kepada pihak store Bakmi GM.</item>
+    </string-array>
+    <string-array name="pertanyaan10">
+        <item>10.	Apakah penukaran E-Voucher Member Bakmi GMania dapat diwakilkan?</item>
+        <item>Tidak penukaran E-Voucher Bakmi GMania wajib dilakukan oleh member terkait dan tidak dapat diwakilkan.</item>
+    </string-array>
+    <string-array name="pertanyaan11">
+        <item>11. pakah ada minimum transaksi untuk penukaran E-Voucher Rewards yang diperoleh dari bermain Spin The Wheel?
+Ya, setiap E-voucher dapat ditukarkan dengan minimum transaksi Rp 75.000,- (sebelum pajak)</item>
+        <item>Ya, setiap E-voucher dapat ditukarkan dengan minimum transaksi Rp 75.000,- (sebelum pajak).</item>
+    </string-array>
+    <string-array name="pertanyaan12">
+        <item>12. Apakah saya akan mendapatkan Poin Member Bakmi GMania untuk pembelian Voucher Bakmi GM?</item>
+        <item>Tidak, pembelian Voucher tidak akan menghasilkan Poin Member</item>
+    </string-array>
+    <string-array name="pertanyaan13">
+        <item>13. Apakah saya akan mendapatkan Poin Member untuk pembayaran menggunakan Voucher Bakmi GM?</item>
+        <item>a, Anda akan mendapatkan poin saat anda menggunakan Voucher Bakmi GM. Anda dapat menggabungkan voucher Bakmi GM dengan jenis pembayaran lainnya dan akan tetap mendapatkan Poin Member Bakmi GMania. KECUALI jika pembayaran menggunakan E-Voucher Member (Lihat pada poin 14).</item>
+    </string-array>
+    <string-array name="pertanyaan14">
+        <item>14. Apakah saya akan mendapatkan Poin Member untuk pembayaran menggunakan E-Voucher member?</item>
+        <item>Tidak, pembayaran menggunakan E-Voucher Member tidak akan menghasilkan Poin Member.</item>
+    </string-array>
+    <string-array name="pertanyaan15">
+        <item>15. Apakah penggunaan Member Bakmi GMania dapat diwakilkan?</item>
+        <item>Kami ingin hanya member kami yang dapat menikmati keuntungan dari pengumpulan Poin Member GMania. Anda bertanggung jawab penuh atas informasi keanggotan dan keamanan Member Bakmi GMania. Penggunaan Poin Member Bakmi GMania hanya dapat dilakukan oleh member yang bersangkutan.</item>
+    </string-array>
+    <string-array name="pertanyaan16">
+        <item>16. Penambahan Poin Member Bakmi GMania dapat diwakilkan?</item>
+        <item>Di semua store Bakmi GM kecuali Food Truck, Event Bazaar, dan Booth.</item>
+    </string-array>
+    <string-array name="pertanyaan17">
+        <item>17. Apakah Poin Member Bakmi GMania dapat diuangkan atau ditransfer ke akun Member Bakmi GMania lainnya?</item>
+        <item>Tidak Bisa. Poin Member Bakmi GMania tidak dapat diuangkan atau ditransfer ke akun Member Bakmi GMania lainnya.</item>
+    </string-array>
+    <string-array name="pertanyaan18">
+        <item>18. Program Member Bakmi GMania berlaku untuk semua transaksi di store Bakmi GM?</item>
+        <item>Program Member Bakmi GMania berlaku untuk transaksi di Bakmi GM, kecuali :
+        1.	Field trip
+        2.	Pembelian via Gojek (Go Food)
+        3.	Pembelian via Grab (Grab Food)</item>
+    </string-array>
+    <string-array name="pertanyaan19">
+        <item>19. Penukaran E-Voucher Member dapat dilakukan di mana saja?</item>
+        <item>Di store Bakmi GM kecuali Bandara, Food Truck, Stasiun, Event Bazaar, Booth dan Store MRT.</item>
+    </string-array>
+    <string-array name="pertanyaan20">
+        <item>20. Apa yang harus saya lakukan Ketika memiliki pertanyaan atau menghadapi masalah berkaitan dengan Member Bakmi GMania?</item>
+        <item>Anda dapat menghubungi contact center Bakmi GMania melalui email ke : help@bgmania. Bakmigm.com
+            Contact center kami beroperasi dari Senin-Jumat jam 08.30 – 17.30</item>
+    </string-array>
+    <string name="masukbold">MASUK</string>
+    <string-array name="pilihbhsa">
+        <item>Pilih Bahasa</item>
+        <item>Bahasa</item>
+        <item>English</item>
+    </string-array>
+    <string name="nohp">No. HP</string>
+    <string name="dftar">Daftar</string>
+    <string name="nmdpn">Nama Depan*</string>
+    <string name="nmblkg">Nama Belakang*</string>
+    <string name="tgllhr">Tanggal Lahir*</string>
+    <string name="wlyahregis">Wilayah Registrasi*</string>
+    <string name="tk">Toko Pilihan*</string>
+    <string name="tkaja">Toko</string>
+    <string name="nmdepan">Nama Depan</string>
+    <string name="namablkng">Nama Belakang</string>
+    <string name="dmy">DD-MM-YYYY</string>
+    <string name="wilayahhh">Masukkan Wilayah Pendaftaran</string>
+    <string name="kadotulis">Lengkapi profil dan dapatkan kesempatan bermain putar roda sekali lagi untuk memenangkan hadiah menarik</string>
+    <string name="Katalog">Katalog</string>
+    <string name="Hadiah">Hadiah Saya</string>
+    <string name="AP">ATUR PROFIL</string>
+    <string name="LEWAT">LEWATI</string>
+    <string name="PP">PENGATURAN PROFIL</string>
+    <string name="ME">Masukkan E-mail</string>
+    <string name="JK">Jenis Kelamin</string>
+    <string name="PR">PRIA</string>
+    <string name="WN">WANITA</string>
+    <string name="Kot">Kota</string>
+    <string name="Alam">Alamat</string>
+    <string name="MA">Masukkan Alamat</string>
+    <string name="KP">Kode Pos</string>
+    <string name="sel">Selesai</string>
+    <string name="nm">Nama</string>
+    <string name="tp">Tampilkan profil</string>
+    <string name="out">Keluar</string>
+    <string name="IS">Informasi Saya</string>
+    <string name="PS">Poin Saya</string>
+    <string name="syarat1">1. Voucher berlaku sampai dengan 30 juni 2020</string>
+    <string name="syarat2">2. Voucher tidak dapat ditukar dengan uang</string>
+    <string name="syarat3">3. Voucher berlaku tanpa minimum transaksi</string>
+    <string name="syarat4">4. Voucher tidak dapat digabungkan dengan promo lain</string>
+    <string name="syarat5">5. Informasikan penggunaan Voucher kepada pihak store sebelum pemesanan makanan</string>
+    <string name="syarat6">6. Hadiah dapat berubah sewaktu-waktu sesuai dengan ketentuan Bakmi GMania tanpa pemberitahuaan terlebih dahulu</string>
+    <string name="syarat7">" Voucher dapat digunakan di store Bakmi GM yang menyediakan Krisppi Cheese Cause kecuali: Store Bandara, Event Bazar, Food Truck, Booth, Store MRT, dan Store Stasiun"</string>
+    <string name="ketentuanEsLemon">Voucher dapat digunakan di store Bakmi GM yang menyediakan Lemon Es Teh kecuali: Store Bandara, Event Bazar, Food Truck, Booth, Store MRT, dan Store Stasiun</string>
+    <string name="KetentuanChaCha">Voucher dapat digunakan di store Bakmi GM yang menyediakan Bakmi Kuah Cha Cha kecuali: Store Bandara, Event Bazar, Food Truck, Booth, Store MRT, dan Store Stasiun</string>
+    <string name="KetentuanNasiAyam">Voucher dapat digunakan di store Bakmi GM yang menyediakan Bakmi Kuah Cha Cha kecuali: Store Bandara, Event Bazar, Food Truck, Booth, Store MRT, dan Store Stasiun</string>
+    <string name="ketentuanSomay">Voucher dapat digunakan di store Bakmi GM yang menyediakan Somay Ayam (2pc) kecuali: Store Bandara, Event Bazar, Food Truck, Booth, Store MRT, dan Store Stasiun</string>
+    <string name="syarat8">3. Setelah mendapatkan SMS Kode Voucher harap konfirmasi kepada pihak Bami GM melalui email ke : help@bgmania.bakmigm.com</string>
+    <string name="syarat9">4. Proses penukaran SMS Kode Voucher menjadi Iphone X adalah min. 14 hari kerja setelah pihak Bakmi GM menerima Emal konfirmasi</string>
+    <string name="syarat10">5. Untuk lokasi store Bakmi GM dan waktu pengambilan akan diinformasikan setelah pihak gakmi GM menerima Email konfirmasi</string>
+    <string name="ketentuanVoucher">Voucher dapat digunakan di Outlet Bakmi GM kecuali: Store Bandara, Event Bazar, Food Trucj, Booth, Store MRT, dan Store Stasiun</string>
+    <string name="title_activity_maps">Maps Bakmi GM</string>
+    <string name="katalog">katalog</string>
+    <string name="Hadiah_Saya">Hadiah_Saya</string>
+    <string name="OTP">Masukan OTP</string>
+    <string name="verifikasi">VERIFIKASI DAN MASUK</string>
+
+</resources>

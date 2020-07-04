@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DeskripsiMinuman8"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/textView_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:textColor="#423C3C"
+            android:fontFamily="sans"/>
+    </androidx.appcompat.widget.Toolbar>
+
+    <ImageView
+        android:id="@+id/imageView_desminuman8"
+        android:layout_width="match_parent"
+        android:layout_height="270dp"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/desminuman8" />
+
+    <TextView
+        android:id="@+id/textView1_desminuman8"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="30dp"
+        android:text="ICED COFFEE WITH MILK"
+        android:fontFamily="sans"
+        android:textColor="@color/colorAccent"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView2_desminuman8"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:paddingLeft="30dp"
+        android:text="Es Kopi dengan Susu"
+        android:textSize="15dp"
+        android:fontFamily="sans"/>
+</LinearLayout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "123216253821",
+    "firebase_url": "https://bakmi-gm-projek.firebaseio.com",
+    "project_id": "bakmi-gm-projek",
+    "storage_bucket": "bakmi-gm-projek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123216253821:android:d658e543d0c21f89923214",
+        "android_client_info": {
+          "package_name": "com.bismillah.penyetan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123216253821-uvg4h3ubt219lbk3ck2dgtlstu034q5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bismillah.penyetan",
+            "certificate_hash": "d747533d72d4334fc691713b8ce5b84b08a14f87"
+          }
+        },
+        {
+          "client_id": "123216253821-53mnverj2biuasd31dd6e7dctckeimgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY7BE647fuEKWVW1lj488q4ZWRNoxJsng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123216253821-53mnverj2biuasd31dd6e7dctckeimgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

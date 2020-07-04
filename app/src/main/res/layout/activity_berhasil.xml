@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Berhasil"
+    android:orientation="vertical"
+    android:background="@drawable/lala">
+
+    <ImageView
+        android:id="@+id/kado"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        app:srcCompat="@drawable/kadonya"
+        android:layout_marginTop="150dp"/>
+
+    <TextView
+        android:id="@+id/tuliskado"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:textColor="@color/black"
+        android:layout_marginTop="50dp"
+        android:textSize="16sp"
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/kadotulis"/>
+
+    <Button
+        android:id="@+id/editp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/AP"
+        android:background="@color/orange"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"/>
+
+    <Button
+        android:id="@+id/lwt"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/LEWAT"
+        android:background="@color/trans"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"/>
+</LinearLayout>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DeskripsiBeranda9"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/textView_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:textColor="#423C3C"
+            android:fontFamily="sans"/>
+    </androidx.appcompat.widget.Toolbar>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:id="@+id/imageView_beranda9"
+                android:layout_width="match_parent"
+                android:layout_height="270dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/beranda9"/>
+            <TextView
+                android:id="@+id/textView1_beranda9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:text="PAKET RAME - RAME"
+                android:fontFamily="sans"
+                android:textSize="17dp"
+                android:layout_marginLeft="25dp"/>
+            <TextView
+                android:id="@+id/textView2_beranda9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="20dp"
+                android:text="Paket Rame - Rame 4 : 2 Bakmi SPC GM + Pangsit Rebus + 2 Bakmi SPC GM Bakso hanya Rp. 108.182 (sblm pajak)"
+                android:textSize="15dp"
+                android:fontFamily="sans"/>
+            <TextView
+                android:id="@+id/textView3_beranda9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginTop="20dp"
+                android:text="Paket Rame - Rame 5 : 5 Bakmi SPC GM + Pangsit Goreng isi 5 hanya Rp. 126,234 (sblm pajak)"
+                android:textSize="15dp"
+                android:fontFamily="sans"/>
+            <TextView
+                android:id="@+id/textView4_beranda9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginTop="20dp"
+                android:text="Yuk, hubungi 1.500.677 atau WA 0811.1500.676"
+                android:textSize="15dp"
+                android:fontFamily="sans"/>
+            <TextView
+                android:id="@+id/textView5_beranda9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginTop="15dp"
+                android:text="Hanya berlaku untuk pesanan delivery"
+                android:textSize="15dp"
+                android:fontFamily="sans"/>
+            <TextView
+                android:id="@+id/textView6_beranda9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginTop="15dp"
+                android:text="SK berlaku"
+                android:fontFamily="sans"
+                android:textSize="15dp"/>
+            <TextView
+                android:id="@+id/textView7_beranda9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="60dp"
+                android:text="Bergabung menjadi Member"
+                android:textSize="23dp"
+                android:fontFamily="sans"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textColor="@color/black"/>
+            <TextView
+                android:id="@+id/textView8_beranda9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:text="Nikmati penawaran menarik, dan banyak lagi dengan program hadiah ekslusif Bakmi GMania. Daftar sekarang !"
+                android:textSize="15dp"
+                android:fontFamily="sans"
+                android:textColor="@color/black"/>
+            <Button
+                android:id="@+id/button_beranda9"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="GABUNG SEKARANG"
+                android:textSize="20dp"
+                android:fontFamily="sans"
+                android:layout_gravity="center"
+                android:layout_marginTop="35dp"
+                android:background="@drawable/shape_orange"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

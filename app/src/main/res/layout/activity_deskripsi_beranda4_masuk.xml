@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DeskripsiBeranda4_masuk"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/textView_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:textColor="#423C3C"
+            android:fontFamily="sans"/>
+    </androidx.appcompat.widget.Toolbar>
+    <ImageView
+        android:id="@+id/imageView_beranda4"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/desberanda4"/>
+    <TextView
+        android:id="@+id/textView1_beranda4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="Free New Product Testing"
+        android:textSize="17dp"
+        android:fontFamily="sans"
+        android:layout_marginLeft="25dp"/>
+    <TextView
+        android:id="@+id/textView2_beranda4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="5dp"
+        android:text="Jadilah yang pertama menikmati produk baru Bakmi GM"
+        android:textSize="15dp"
+        android:fontFamily="sans"/>
+</LinearLayout>

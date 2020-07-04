@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bismillah.penyetan">
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality.
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logomi2"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:usesCleartextTraffic="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Main2_GabungActivity"></activity>
+        <activity android:name=".DeskripsiBeranda11_masuk" />
+        <activity android:name=".DeskripsiBeranda10_masuk" />
+        <activity android:name=".DeskripsiBeranda9_masuk" />
+        <activity android:name=".DeskripsiBeranda8_masuk" />
+        <activity android:name=".DeskripsiBeranda7_masuk" />
+        <activity android:name=".DeskripsiBeranda6_masuk" />
+        <activity android:name=".DeskripsiBeranda5_masuk" />
+        <activity android:name=".DeskripsiBeranda4_masuk" />
+        <activity android:name=".DeskripsiBeranda3_masuk" />
+        <activity android:name=".DeskripsiBeranda2_masuk" />
+        <activity android:name=".DeskripsiBeranda1_masuk" />
+        <activity android:name=".tab2_awal" />
+        <activity android:name=".tab1_awal" />
+        <activity android:name=".Keranjang" />
+        <activity android:name=".Permainan2" />
+        <activity android:name=".DeskripsiVoucher" />
+        <activity android:name=".DeskripsiSomayAyam" />
+        <activity android:name=".DeskripsiNasiAyam" />
+        <activity android:name=".DeskripsiKuahChaCha" />
+        <activity android:name=".DeskripsiEsLemonTea" />
+        <activity android:name=".AturProfil" />
+        <activity android:name=".Berhasil" />
+        <activity android:name=".Mainclone" />
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".MapsActivity"
+            android:label="@string/title_activity_maps" />
+        <activity android:name=".DeskripsiMinuman17" />
+        <activity android:name=".DeskripsiMinuman16" />
+        <activity android:name=".DeskripsiMinuman15" />
+        <activity android:name=".DeskripsiMinuman14" />
+        <activity android:name=".DeskripsiMakanan40" />
+        <activity android:name=".DeskripsiMakanan39" />
+        <activity android:name=".DeskripsiMakanan38" />
+        <activity android:name=".DeskripsiMakanan37" />
+        <activity android:name=".DeskripsiMakanan36" />
+        <activity android:name=".DeskripsiMakanan35" />
+        <activity android:name=".DeskripsiMakanan34" />
+        <activity android:name=".DeskripsiMakanan33" />
+        <activity android:name=".DeskripsiMakanan32" />
+        <activity android:name=".DeskripsiMakanan31" />
+        <activity android:name=".DeskripsiMakanan30" />
+        <activity android:name=".DeskripsiMakanan29" />
+        <activity android:name=".DeskripsiMakanan28" />
+        <activity android:name=".DeskripsiMakanan27" />
+        <activity android:name=".DeskripsiMakanan26" />
+        <activity android:name=".DeskripsiMakanan25" />
+        <activity android:name=".DeskripsiMinuman13" />
+        <activity android:name=".DeskripsiMinuman12" />
+        <activity android:name=".DeskripsiMinuman11" />
+        <activity android:name=".DeskripsiMinuman10" />
+        <activity android:name=".DeskripsiMinuman9" />
+        <activity android:name=".DeskripsiMinuman8" />
+        <activity android:name=".DeskripsiMinuman7" />
+        <activity android:name=".DeskripsiMinuman6" />
+        <activity android:name=".DeskripsiMinuman5" />
+        <activity android:name=".DeskripsiMinuman4" />
+        <activity android:name=".DeskripsiMinuman3" />
+        <activity android:name=".DeskripsiMakanan24" />
+        <activity android:name=".DeskripsiMakanan23" />
+        <activity android:name=".DeskripsiMakanan22" />
+        <activity android:name=".DeskripsiMakanan21" />
+        <activity android:name=".DeskripsiMakanan20" />
+        <activity android:name=".DeskripsiMakanan19" />
+        <activity android:name=".DeskripsiMakanan18" />
+        <activity android:name=".DeskripsiMakanan17" />
+        <activity android:name=".DeskripsiMakanan16" />
+        <activity android:name=".DeskripsiMakanan15" />
+        <activity android:name=".DeskripsiMakanan14" />
+        <activity android:name=".DeskripsiMakanan13" />
+        <activity android:name=".DeskripsiMakanan12" />
+        <activity android:name=".DeskripsiMakanan11" />
+        <activity android:name=".Main_GabungActivity" />
+        <activity android:name=".Syarat_dan_Ketentuan" />
+        <activity
+            android:name=".Syarat"
+            android:parentActivityName=".Main5Activity" />
+        <activity
+            android:name=".Pertanyaan"
+            android:parentActivityName=".Main5Activity" />
+        <activity
+            android:name=".Permainan"
+            android:parentActivityName=".Main5Activity" />
+        <activity
+            android:name=".Notifikasi"
+            android:parentActivityName=".Main5Activity" />
+        <activity android:name=".Masuk" />
+        <activity
+            android:name=".Kebijakan_Privasi"
+            android:parentActivityName=".Main5Activity" />
+        <activity
+            android:name=".Hubungi_Kami"
+            android:parentActivityName=".Main5Activity" />
+        <activity android:name=".Daftar" />
+        <activity android:name=".Berhasil" />
+        <activity
+            android:name=".DeskripsiBeranda11"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".DeskripsiBeranda10"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".DeskripsiBeranda9"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".DeskripsiBeranda8"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".DeskripsiBeranda7"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".DeskripsiBeranda6"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".DeskripsiBeranda5"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".DeskripsiBeranda4"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".DeskripsiBeranda3"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".DeskripsiBeranda2"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".DeskripsiBeranda1"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".DeskripsiCamilan2"
+            android:parentActivityName=".Camilan" />
+        <activity
+            android:name=".DeskripsiCamilan1"
+            android:parentActivityName=".Camilan" />
+        <activity
+            android:name=".DeskripsiMinuman2"
+            android:parentActivityName=".Minuman" />
+        <activity
+            android:name=".DeskripsiMinuman1"
+            android:parentActivityName=".Minuman" />
+        <activity
+            android:name=".DeskripsiMakanan10"
+            android:parentActivityName=".Makanan" />
+        <activity
+            android:name=".DeskripsiMakanan9"
+            android:parentActivityName=".Makanan" />
+        <activity
+            android:name=".DeskripsiMakanan8"
+            android:parentActivityName=".Makanan" />
+        <activity
+            android:name=".DeskripsiMakanan7"
+            android:parentActivityName=".Makanan" />
+        <activity
+            android:name=".DeskripsiMakanan6"
+            android:parentActivityName=".Makanan2" />
+        <activity
+            android:name=".DeskripsiMakanan5"
+            android:parentActivityName=".Makanan2" />
+        <activity
+            android:name=".DeskripsiMakanan4"
+            android:parentActivityName=".Makanan1" />
+        <activity
+            android:name=".DeskripsiMakanan3"
+            android:parentActivityName=".Makanan1" />
+        <activity
+            android:name=".DeskripsiMakanan2"
+            android:parentActivityName=".Makanan" />
+        <activity
+            android:name=".DeskripsiMakanan1"
+            android:parentActivityName=".Makanan" />
+        <activity
+            android:name=".Camilan"
+            android:parentActivityName=".Main4Activity" />
+        <activity
+            android:name=".Minuman"
+            android:parentActivityName=".Main4Activity" />
+        <activity
+            android:name=".Makanan2"
+            android:parentActivityName=".Main4Activity" />
+        <activity
+            android:name=".Makanan1"
+            android:parentActivityName=".Main4Activity" />
+        <activity
+            android:name=".Makanan"
+            android:parentActivityName=".Main4Activity" />
+        <activity android:name=".Main5Activity" />
+        <activity android:name=".Main4Activity" />
+        <activity android:name=".Main3Activity" />
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

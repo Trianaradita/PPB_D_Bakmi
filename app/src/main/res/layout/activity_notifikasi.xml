@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Notifikasi"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/textView_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:textColor="#423C3C"
+            android:fontFamily="sans-serif"/>
+    </androidx.appcompat.widget.Toolbar>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/lala">
+        <TextView
+            android:id="@+id/judulnotif"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/gbgmember"
+            android:textSize="25sp"
+            android:textAlignment="center"
+            android:layout_marginTop="15dp"
+            android:textStyle="bold"
+            android:textColor="@color/black"/>
+
+        <TextView
+            android:id="@+id/ketnotif"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ketmain"
+            android:textSize="14sp"
+            android:textAlignment="center"
+            android:layout_marginTop="15dp"
+            android:textColor="@color/black"/>
+
+        <Button
+            android:id="@+id/gbnotif"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/gabung"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="20dp"
+            android:textSize="25sp"
+            android:paddingTop="20dp"
+            android:paddingBottom="20dp"
+            android:background="@color/orange"/>
+    </LinearLayout>
+</LinearLayout>

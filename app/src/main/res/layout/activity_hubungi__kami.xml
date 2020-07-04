@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Hubungi_Kami"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/textView_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:textColor="#423C3C"
+            android:fontFamily="sans-serif"/>
+    </androidx.appcompat.widget.Toolbar>
+    <RelativeLayout
+        android:id="@+id/rl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/alamat"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textSize="18sp"
+            android:text="@string/addre"
+            android:textColor="@color/black"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"/>
+        <TextView
+            android:id="@+id/ketalamat"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="1dp"
+            android:layout_below="@id/alamat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="10sp"
+            android:paddingBottom="5dp"/>
+
+        <TextView
+            android:id="@+id/mail"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_below="@id/ketalamat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textSize="18sp"
+            android:text="@string/mail"
+            android:textColor="@color/black"
+            android:paddingTop="5dp"/>
+
+        <TextView
+            android:id="@+id/ketmail"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="1dp"
+            android:layout_marginTop="2dp"
+            android:layout_below="@id/mail"
+            android:layout_width="330dp"
+            android:layout_height="wrap_content"
+            android:textSize="10sp"
+            android:text="@string/bkmimail"
+            android:paddingBottom="5dp"/>
+
+        <ImageButton
+            android:id="@+id/imail"
+            android:layout_width="35dp"
+            android:layout_height="22dp"
+            android:layout_toRightOf="@id/ketmail"
+            android:layout_below="@id/mail"
+            app:srcCompat="@drawable/mail" />
+    </RelativeLayout>
+</LinearLayout>

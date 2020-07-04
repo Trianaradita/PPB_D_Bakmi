@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DeskripsiCamilan3"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/textView_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:textColor="#423C3C"
+            android:fontFamily="sans-serif"/>
+    </androidx.appcompat.widget.Toolbar>
+    <ImageView
+        android:id="@+id/imageView_camilan3"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/camilan3" />
+    <TextView
+        android:id="@+id/textView1_camilan3"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="30dp"
+        android:text="KERIPIK TEMPE"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/colorAccent"/>
+    <TextView
+        android:id="@+id/textView2_camilan3"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:paddingLeft="30dp"
+        android:text="Keripik tempe renyah"
+        android:textSize="15dp"/>
+</LinearLayout>
